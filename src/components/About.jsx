@@ -1,6 +1,6 @@
 import React from 'react'
 import bgImage from '../assets/bg-1.jpg'
-import CV from '../assets/ASHFAQUE AHMAD.pdf' // Assuming the CV is stored in the 'assets' folder
+import CV from '../assets/ASHFAQUEAHMAD.pdf' // Assuming the CV is stored in the 'assets' folder
 
 const About = () => {
   return (
